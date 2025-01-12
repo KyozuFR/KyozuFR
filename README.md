@@ -17,7 +17,7 @@
 
 <h3 align="left">My Goals:</h3>
 <ul>
-  <li>Keep developing and learning new things every day</li>
+  <li>💡Keep developing and learning new things every day</li>
   <li>🌍 Explore the world and meet new cultures</li>
   <li>💙 Be happy and enjoy life!</li>
 </ul>
